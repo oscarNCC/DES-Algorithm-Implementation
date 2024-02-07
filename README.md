@@ -32,3 +32,5 @@ java DESGui
 5. **Encrypt/Decrypt:** Click the "Encrypt" or "Decrypt" button to process the input text with the provided key.
 6. **View Result:** The result of the encryption or decryption process will be displayed in the text area at the bottom.
 
+##Github
+https://github.com/oscarNCC/DES-Algorithm-Implementation
