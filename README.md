@@ -3,7 +3,7 @@
 This application provides a graphical user interface (GUI) for encrypting and decrypting text using the DES (Data Encryption Standard) algorithm. It features the ability to manually input a hexadecimal key and plaintext/ciphertext, generate a random hexadecimal key, and display the result of the encryption or decryption process.
 
 ## Features
-![Example Image]([images/example.png](https://github.com/oscarNCC/DES-Algorithm-Implementation/blob/main/Screenshot%202024-02-18%20231007.png))
+![Example Image](https://github.com/oscarNCC/DES-Algorithm-Implementation/blob/main/Screenshot%202024-02-18%20231007.png)
 
 - **Key Input:** Allows users to input a custom hexadecimal key for the encryption/decryption process.
 - **Random Key Generation:** Generates a random hexadecimal key for use in encryption/decryption.
